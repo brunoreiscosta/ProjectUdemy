@@ -9,3 +9,14 @@
 /home/bruno/Documentos/hwapp/obj/Debug/netcoreapp2.2/hwapp.AssemblyInfo.cs
 /home/bruno/Documentos/hwapp/obj/Debug/netcoreapp2.2/hwapp.dll
 /home/bruno/Documentos/hwapp/obj/Debug/netcoreapp2.2/hwapp.pdb
+C:\temp\ProjectUdemy\hwapp\bin\Debug\netcoreapp2.2\hwapp.deps.json
+C:\temp\ProjectUdemy\hwapp\bin\Debug\netcoreapp2.2\hwapp.runtimeconfig.json
+C:\temp\ProjectUdemy\hwapp\bin\Debug\netcoreapp2.2\hwapp.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\hwapp\bin\Debug\netcoreapp2.2\hwapp.dll
+C:\temp\ProjectUdemy\hwapp\bin\Debug\netcoreapp2.2\hwapp.pdb
+C:\temp\ProjectUdemy\hwapp\obj\Debug\netcoreapp2.2\hwapp.csprojAssemblyReference.cache
+C:\temp\ProjectUdemy\hwapp\obj\Debug\netcoreapp2.2\hwapp.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\hwapp\obj\Debug\netcoreapp2.2\hwapp.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\hwapp\obj\Debug\netcoreapp2.2\hwapp.AssemblyInfo.cs
+C:\temp\ProjectUdemy\hwapp\obj\Debug\netcoreapp2.2\hwapp.dll
+C:\temp\ProjectUdemy\hwapp\obj\Debug\netcoreapp2.2\hwapp.pdb

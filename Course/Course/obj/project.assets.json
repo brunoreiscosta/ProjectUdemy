@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ProjectUdemy\\hwapp\\hwapp.csproj",
-      "projectName": "hwapp",
-      "projectPath": "C:\\temp\\ProjectUdemy\\hwapp\\hwapp.csproj",
+      "projectUniqueName": "C:\\temp\\ProjectUdemy\\Course\\Course\\Course.csproj",
+      "projectName": "Course",
+      "projectPath": "C:\\temp\\ProjectUdemy\\Course\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ProjectUdemy\\hwapp\\obj\\",
+      "outputPath": "C:\\temp\\ProjectUdemy\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
