@@ -1,0 +1,10 @@
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\bin\Debug\netcoreapp2.2\ExercicioSaidaDeDados.deps.json
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\bin\Debug\netcoreapp2.2\ExercicioSaidaDeDados.runtimeconfig.json
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\bin\Debug\netcoreapp2.2\ExercicioSaidaDeDados.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\bin\Debug\netcoreapp2.2\ExercicioSaidaDeDados.dll
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\bin\Debug\netcoreapp2.2\ExercicioSaidaDeDados.pdb
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\obj\Debug\netcoreapp2.2\ExercicioSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\obj\Debug\netcoreapp2.2\ExercicioSaidaDeDados.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\obj\Debug\netcoreapp2.2\ExercicioSaidaDeDados.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\obj\Debug\netcoreapp2.2\ExercicioSaidaDeDados.dll
+C:\temp\ProjectUdemy\Course\ExercicioSaidaDeDados\obj\Debug\netcoreapp2.2\ExercicioSaidaDeDados.pdb
