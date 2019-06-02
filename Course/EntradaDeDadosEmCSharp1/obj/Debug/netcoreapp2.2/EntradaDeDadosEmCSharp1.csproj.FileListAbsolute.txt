@@ -1,0 +1,11 @@
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\bin\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.deps.json
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\bin\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.runtimeconfig.json
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\bin\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\bin\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.dll
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\bin\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.pdb
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\obj\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\obj\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\obj\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\obj\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.dll
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\obj\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.pdb
+C:\temp\ProjectUdemy\Course\EntradaDeDadosEmCSharp1\obj\Debug\netcoreapp2.2\EntradaDeDadosEmCSharp1.csprojAssemblyReference.cache
