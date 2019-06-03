@@ -1,0 +1,10 @@
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\bin\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.deps.json
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\bin\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.runtimeconfig.json
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\bin\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\bin\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.dll
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\bin\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.pdb
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.dll
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.pdb
