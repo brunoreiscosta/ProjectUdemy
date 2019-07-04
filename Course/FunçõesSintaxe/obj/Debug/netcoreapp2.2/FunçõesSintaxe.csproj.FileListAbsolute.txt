@@ -1,0 +1,11 @@
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\bin\Debug\netcoreapp2.2\FunçõesSintaxe.deps.json
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\bin\Debug\netcoreapp2.2\FunçõesSintaxe.runtimeconfig.json
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\bin\Debug\netcoreapp2.2\FunçõesSintaxe.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\bin\Debug\netcoreapp2.2\FunçõesSintaxe.dll
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\bin\Debug\netcoreapp2.2\FunçõesSintaxe.pdb
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\obj\Debug\netcoreapp2.2\FunçõesSintaxe.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\obj\Debug\netcoreapp2.2\FunçõesSintaxe.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\obj\Debug\netcoreapp2.2\FunçõesSintaxe.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\obj\Debug\netcoreapp2.2\FunçõesSintaxe.dll
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\obj\Debug\netcoreapp2.2\FunçõesSintaxe.pdb
+C:\temp\ProjectUdemy\Course\FunçõesSintaxe\obj\Debug\netcoreapp2.2\FunçõesSintaxe.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\bin\Debug\netcoreapp2.2\ExercicioWhile.deps.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\bin\Debug\netcoreapp2.2\ExercicioWhile.runtimeconfig.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\bin\Debug\netcoreapp2.2\ExercicioWhile.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\bin\Debug\netcoreapp2.2\ExercicioWhile.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\bin\Debug\netcoreapp2.2\ExercicioWhile.pdb
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\obj\Debug\netcoreapp2.2\ExercicioWhile.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\obj\Debug\netcoreapp2.2\ExercicioWhile.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\obj\Debug\netcoreapp2.2\ExercicioWhile.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\obj\Debug\netcoreapp2.2\ExercicioWhile.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioWhile\obj\Debug\netcoreapp2.2\ExercicioWhile.pdb

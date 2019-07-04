@@ -1,0 +1,10 @@
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\bin\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.deps.json
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\bin\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.runtimeconfig.json
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\bin\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\bin\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.dll
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\bin\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.pdb
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\obj\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\obj\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\obj\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\obj\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.dll
+C:\temp\ProjectUdemy\Course\EstruturaRepetitivaEnquantoWhile\obj\Debug\netcoreapp2.2\EstruturaRepetitivaEnquantoWhile.pdb

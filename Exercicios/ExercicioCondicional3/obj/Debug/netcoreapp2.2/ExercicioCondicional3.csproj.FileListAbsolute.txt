@@ -1,0 +1,11 @@
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\bin\Debug\netcoreapp2.2\ExercicioCondicional3.deps.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\bin\Debug\netcoreapp2.2\ExercicioCondicional3.runtimeconfig.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\bin\Debug\netcoreapp2.2\ExercicioCondicional3.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\bin\Debug\netcoreapp2.2\ExercicioCondicional3.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\bin\Debug\netcoreapp2.2\ExercicioCondicional3.pdb
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\obj\Debug\netcoreapp2.2\ExercicioCondicional3.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\obj\Debug\netcoreapp2.2\ExercicioCondicional3.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\obj\Debug\netcoreapp2.2\ExercicioCondicional3.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\obj\Debug\netcoreapp2.2\ExercicioCondicional3.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\obj\Debug\netcoreapp2.2\ExercicioCondicional3.pdb
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional3\obj\Debug\netcoreapp2.2\ExercicioCondicional3.csprojAssemblyReference.cache

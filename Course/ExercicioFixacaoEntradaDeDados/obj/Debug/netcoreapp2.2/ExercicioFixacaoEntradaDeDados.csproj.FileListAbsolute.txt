@@ -8,3 +8,4 @@ C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2
 C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.AssemblyInfo.cs
 C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.dll
 C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.pdb
+C:\temp\ProjectUdemy\Course\ExercicioFixacaoEntradaDeDados\obj\Debug\netcoreapp2.2\ExercicioFixacaoEntradaDeDados.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\bin\Debug\netcoreapp2.2\ExercicioCondicional4.deps.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\bin\Debug\netcoreapp2.2\ExercicioCondicional4.runtimeconfig.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\bin\Debug\netcoreapp2.2\ExercicioCondicional4.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\bin\Debug\netcoreapp2.2\ExercicioCondicional4.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\bin\Debug\netcoreapp2.2\ExercicioCondicional4.pdb
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\obj\Debug\netcoreapp2.2\ExercicioCondicional4.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\obj\Debug\netcoreapp2.2\ExercicioCondicional4.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\obj\Debug\netcoreapp2.2\ExercicioCondicional4.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\obj\Debug\netcoreapp2.2\ExercicioCondicional4.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioCondicional4\obj\Debug\netcoreapp2.2\ExercicioCondicional4.pdb

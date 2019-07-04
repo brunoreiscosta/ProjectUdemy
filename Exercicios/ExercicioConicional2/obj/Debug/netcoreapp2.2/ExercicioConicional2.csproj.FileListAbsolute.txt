@@ -1,0 +1,10 @@
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\bin\Debug\netcoreapp2.2\ExercicioConicional2.deps.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\bin\Debug\netcoreapp2.2\ExercicioConicional2.runtimeconfig.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\bin\Debug\netcoreapp2.2\ExercicioConicional2.runtimeconfig.dev.json
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\bin\Debug\netcoreapp2.2\ExercicioConicional2.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\bin\Debug\netcoreapp2.2\ExercicioConicional2.pdb
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\obj\Debug\netcoreapp2.2\ExercicioConicional2.csproj.CoreCompileInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\obj\Debug\netcoreapp2.2\ExercicioConicional2.AssemblyInfoInputs.cache
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\obj\Debug\netcoreapp2.2\ExercicioConicional2.AssemblyInfo.cs
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\obj\Debug\netcoreapp2.2\ExercicioConicional2.dll
+C:\temp\ProjectUdemy\Exercicios\ExercicioConicional2\obj\Debug\netcoreapp2.2\ExercicioConicional2.pdb
